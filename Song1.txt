@@ -26,6 +26,7 @@ I don't wish to try this alone
 I feel lone, why shouldn't I go?
 'Cause even the time we're so longing gets blown
 
+
 CV:
 Requirements:
 3 + years of experience in a IT
@@ -34,3 +35,13 @@ Experience with testing web/desktop/mobile application
 
 Practical experience with test artifacts: Test Plan, Test Design, test case, bug reports
 
+
+CV2_feature branch:
+Responsibilities:
+Manual testing of Web applications 
+
+Ability to write simple test scripts
+
+Analysing and testing requirements
+
+Generate test execution scenario 
