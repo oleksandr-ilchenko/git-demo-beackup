@@ -25,3 +25,13 @@ You're hiding your love
 I don't wish to try this alone
 I feel lone, why shouldn't I go?
 'Cause even the time we're so longing gets blown
+
+CV2_feature branch:
+Responsibilities:
+Manual testing of Web applications 
+
+Ability to write simple test scripts
+
+Analysing and testing requirements
+
+Generate test execution scenario 
