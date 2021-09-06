@@ -25,3 +25,12 @@ You're hiding your love
 I don't wish to try this alone
 I feel lone, why shouldn't I go?
 'Cause even the time we're so longing gets blown
+
+CV:
+Requirements:
+3 + years of experience in a IT
+
+Experience with testing web/desktop/mobile application
+
+Practical experience with test artifacts: Test Plan, Test Design, test case, bug reports
+
